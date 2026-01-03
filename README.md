@@ -93,4 +93,3 @@ You can test the API using:
 ## 📄 License
 
 MIT License
-Copyright (c) 2026 Baba L Tarawally
